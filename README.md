@@ -64,9 +64,8 @@ The higher-frequency values were estimated from the waveform records and require
 
 High-speed imaging was considered as part of the **multimodal arc-characterization workflow** for resolving transient arc behaviour, arc geometry and metal-transfer phenomena.
 
-The supplied HyperFill experimental report notes that a high-speed camera was **not available during the three reported HyperFill trials**. Therefore, this repository does not claim synchronized high-speed imaging results for those three experiments.
 
-Where applicable, high-speed imaging analysis can be used alongside electrical measurements to investigate transient arc behaviour and establish correlations between waveform events and visual arc phenomena.
+High-speed imaging analysis can be used alongside electrical measurements to investigate transient arc behaviour and establish correlations between waveform events and visual arc phenomena.
 
 ## Abel Inversion
 
